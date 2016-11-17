@@ -1,7 +1,7 @@
 server {
     server_name symfony.ddns.net www.symfony.ddns.net;
     root /var/www/testingproject1/web;
-    listen   8080;
+    listen   80;
     location / {
         try_files $uri /app.php$is_args$args;
     }
