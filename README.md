@@ -1,2 +1,2 @@
 # symfony-nginx
-Install and configure symfony 2.8 with ngnix php5-fpm
+Install and configure symfony 2.8 with nginx php5-fpm
